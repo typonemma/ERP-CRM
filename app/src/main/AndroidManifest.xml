@@ -11,16 +11,17 @@
         android:theme="@style/Theme.ArkERP">
         <activity
             android:name=".index"
-            android:exported="false"
-            android:label="@string/title_activity_index" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:label="@string/title_activity_index">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
         </activity>
     </application>
 
