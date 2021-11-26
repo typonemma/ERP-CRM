@@ -3,4 +3,11 @@
     <string name="title_activity_index">index</string>
     <string name="title_home">Home</string>
     <string name="tittle_profile">Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enterusername">Enter a username</string>
+    <string name="tittle_dashboard">Dashboard</string>
+    <string name="tittle_notification">Notification</string>
+
 </resources>
